@@ -1,0 +1,20 @@
+{
+  "name": "tinduwu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shimpfierie/TindUwU.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shimpfierie/TindUwU/issues"
+  },
+  "homepage": "https://github.com/shimpfierie/TindUwU#readme"
+}
